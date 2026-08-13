@@ -1,4 +1,6 @@
-# Operational AI Governance and Compliance Readiness File
+![Operational AI Governance — From Requirements to Decisions](ai-governance-project-banner.png)
+
+# Operational AI Governance and Compliance Readiness File# Operational AI Governance and Compliance Readiness File
 ## A simulated deployer-side assessment of a high-risk employment AI system under the EU AI Act
 
 > **SIMULATION NOTICE.** Everything in this repository is **fictional**,
